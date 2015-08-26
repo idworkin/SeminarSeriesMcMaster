@@ -1,4 +1,4 @@
-# Potential speakers for the ecology and Evolution group.
+# Potential speakers for the Ecology and Evolution group.
 
 By luck our fall slots gotten filled up by several great speakers (Dolph Schluter, Judith Bronstein and Simon Levin) from other sources (and luck). However we need to pick our winter-spring speakers.
 
