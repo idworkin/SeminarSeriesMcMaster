@@ -12,6 +12,8 @@ Below I list speakers that have been nominated. We need to pick three more. As o
 
 [Joel Berger](http://bergerlab.dbs.umt.edu/). University of Montana. Conservation Biology - "1) to what extent are ecosystem processes driven by top-down and bottom-up forces? 2) What, if anything, might be done to assure the conservation of cold-adapted species? and 3) How best might we dampen human footprints so that connectivity can be maintained or restored?". Host: Pat Chow-Fraser.
 
+[Pete Buston](http://www.bu.edu/biology/people/profiles/peter-buston/). Boston University. Behavioural and Population Ecology of cooperative behaviour. Host: Jim Quinn.
+
 [Christina Caruso](http://www.uoguelph.ca/ib/people/faculty/caruso.shtml). University of Guelph. Limits and constraints on natural selection. Evolution of cyto-nuclear interactions. Host: Ian Dworkin.
 
 [Freddy Chain](http://biology.mcgill.ca/faculty/cristescu/fredericchain.html). McGill University. A post-doc in the Cristescu Lab at McGill. Looking at how  environmental stressors influencing copy number variation (and other mutations)., and how this in turn influences adapatation. Host: Ben Evans.
