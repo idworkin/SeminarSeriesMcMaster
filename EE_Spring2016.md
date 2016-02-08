@@ -25,5 +25,5 @@ Below I list speakers that have been nominated. We need to pick three more. As o
 [Maren Vitousek](http://vitousek.weebly.com/). Cornell University. Individual Variation & Stress. Costs & consequences of sexual signaling and signal assessment.
 
 
-** To make your selection, please fill out the form [here](http://goo.gl/forms/48m5NDf2X2)**
+**To make your selection, please fill out the form [here](http://goo.gl/forms/48m5NDf2X2)**
 
